@@ -15,7 +15,7 @@ About the clients:
 - GUI-clients are for standalone use of this product.
 - Non-GUI clients are other systems that need to integrate with this product.
 
-This project implements automated tests, which behave as a non-GUI client.
+This project implements automated tests, which behave as a non-GUI client
 
 ## [Segment 1] Web API
 
